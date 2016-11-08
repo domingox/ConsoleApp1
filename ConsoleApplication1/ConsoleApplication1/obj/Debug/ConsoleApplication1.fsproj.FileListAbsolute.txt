@@ -1,0 +1,8 @@
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ConsoleApplication1\bin\Debug\FSharp.Core.dll
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ConsoleApplication1\bin\Debug\FSharp.Core.xml
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

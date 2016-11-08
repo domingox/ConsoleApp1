@@ -1,0 +1,10 @@
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceConsoleUI\bin\Debug\ServiceConsoleUI.exe.config
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceConsoleUI\bin\Debug\ServiceConsoleUI.XML
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceConsoleUI\bin\Debug\ServiceConsoleUI.exe
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceConsoleUI\bin\Debug\ServiceConsoleUI.pdb
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceConsoleUI\bin\Debug\FSharp.Core.dll
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceConsoleUI\bin\Debug\FSharp.Core.xml
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceConsoleUI\obj\Debug\ServiceConsoleUI.exe
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceConsoleUI\obj\Debug\ServiceConsoleUI.pdb
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceConsoleUI\obj\Debug\ServiceConsoleUI.fsproj.ServiceConsoleUI.exe.config
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceConsoleUI\bin\Debug\FSharp.Data.TypeProviders.dll
