@@ -1,0 +1,7 @@
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\Mathematics\bin\Debug\Mathematics.XML
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\Mathematics\bin\Debug\Mathematics.dll
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\Mathematics\bin\Debug\Mathematics.pdb
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\Mathematics\bin\Debug\FSharp.Core.dll
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\Mathematics\bin\Debug\FSharp.Core.xml
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\Mathematics\obj\Debug\Mathematics.dll
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\Mathematics\obj\Debug\Mathematics.pdb

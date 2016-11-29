@@ -5,3 +5,4 @@ C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceMonitor\bin\Debug\FSharp.C
 C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceMonitor\bin\Debug\FSharp.Core.xml
 C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceMonitor\obj\Debug\ServiceMonitor.dll
 C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceMonitor\obj\Debug\ServiceMonitor.pdb
+C:\_tfs\git\ServiceMonitor\ConsoleApplication1\ServiceMonitor\bin\Debug\FSharp.Data.TypeProviders.dll
